@@ -1,34 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AppIgNews
 
-## Getting Started
+<p>
+  <img src="https://img.shields.io/badge/made%20by-AUGUSTO%20MONTEIRO-6E40C9?style=flat-square">  
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+  </a>
+</p>
 
-First, run the development server:
+<img align="right" style="width: 150px" src="avatar.svg" width="35%" alt="avatar.svg">
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Tópicos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Sobre o AppMovies](#sobre-o-appignews)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[Tecnologias](#tecnologias)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+[Licença](#licença)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<br>
 
-## Learn More
+## Sobre o AppIgNews
 
-To learn more about Next.js, take a look at the following resources:
+O App Ig.News é um App que criado com a finalidade de gerenciar conteúdo. Desenvolvido na trilha ignite [Rocketseat](https://rocketseat.com.br/).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<br>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Dark Mode Desktop
 
-## Deploy on Vercel
+<p align="center">  
+  <img alt="AppIgNews" src="app-desktop-dark.png"/> 
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Light Mode
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">  
+  <img alt="AppIgNews" src="app-desktop-light.png"/> 
+</p>
+
+## Dark|Light Mode Mobile
+
+<p align="center" style="display: flex">  
+  <img  alt="AppIgNews" style="width: 200px; margin: 20px" src="app-mobile-dark1.png"/> 
+  <img alt="AppIgNews" style="width: 200px" src="app-mobile-light1.png"/> 
+  
+  <img  alt="AppIgNews" style="width: 200px; margin-right: 20px" src="app-mobile-dark2.png"/> 
+  <img alt="AppIgNews" style="width: 200px" src="app-mobile-light2.png"/> 
+</p>
+
+<br>
+
+## Tecnologias
+
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+
+- [NestJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [axios](https://github.com/axios/axios)
+- [styled-component](https://styled-components.com/)
+- [polished](https://polished.js.org/)
+- [Prismic Client](https://prismic.io/docs/technical-reference/prismicio-client)
+- [stripe.js](https://stripe.com/docs/js)
+- [faunadb](https://fauna.com/)
+- [prismic dom](https://prismic.io/docs/technologies/prismic-dom-technical-reference)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [react-loading](https://github.com/fakiolinho/react-loading)
+- [stripe](https://stripe.com/br)
+- [VS Code](https://code.visualstudio.com/) com [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) e [EditorConfig](https://editorconfig.org/)
+
+<br>
+
+## Licença
+
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+</a>
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Augusto Monteiro](https://github.com/augustojaml)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Augusto%20Monteiro-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustojaml)](https://www.linkedin.com/in/augustojaml)
+[![Gmail Badge](https://img.shields.io/badge/-jamonteirolima@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamonteirolima@gmail.com)](mailto:jamonteirolima@gmail.com)
