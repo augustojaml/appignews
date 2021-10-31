@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img align="right" style="width: 150px" src="avatar.svg" width="35%" alt="avatar.svg">
+<img align="right" style="width: 150px" src="/public/images/avatar.svg" width="35%" alt="avatar.svg">
 
 ## Tópicos
 
