@@ -39,7 +39,7 @@ O App Ig.News é um App que criado com a finalidade de gerenciar conteúdo. Dese
 
 ## Dark|Light Mode Mobile
 
-<p align="center" style="display: flex; justify-content: center">  
+<p align="center" style="display: flex; justify-content: space-between">  
   <img  alt="AppIgNews" style="width: 150px; margin-right: 20px" src="app-mobile-dark1.png"/> 
   <img alt="AppIgNews" style="width: 150px" src="app-mobile-light1.png"/> 
   
