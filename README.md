@@ -11,7 +11,7 @@
 
 ## Tópicos
 
-[Sobre o AppMovies](#sobre-o-appignews)
+[Sobre o AppIgNews](#sobre-o-appignews)
 
 [Tecnologias](#tecnologias)
 
